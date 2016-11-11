@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{SenraFilho2015}
+A~C {da S Senra Filho}, C~E {Garrido Salmon}, and L~O {Murta Junior}.
+\newblock {Anomalous diffusion process applied to magnetic resonance image
+  enhancement}.
+\newblock {\em Physics in Medicine and Biology}, 60(6):2355--2373, mar 2015.
+
+\bibitem{Filho2014b}
+Antonio Carlos da Silva~Senra Filho, Jeam Haroldo~Oliveira Barbosa, Carlos
+  Ernesto Garrido~Slamon Salmon, and Luiz Ot{\'{a}}vio~Murta Junior.
+\newblock {Anisotropic Anomalous Diffusion Filtering Applied to Relaxation Time
+  Estimation in Magnetic Resonance Imaging}.
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, pages 3893--3896. IEEE, aug 2014.
+
+\bibitem{Filho2014c}
+Antonio Carlos da Silva~Senra Filho, Gustavo~Canavaci Barizon, and Luiz
+  O.~Murta Junior.
+\newblock {Myocardium Segmentation Improvement with Anisotropic Anomalous
+  Diffusion Filter Applied to Cardiac Magnetic Resonance Imaging}.
+\newblock In {\em Annual Meeting of Computing in Cardiology}, 2014.
+
+\bibitem{Filho2014}
+Antonio Carlos da Silva~Senra Filho, Luiz Ot{\'{a}}vio~Murta Junior, and
+  Antonio~Carlos dos Santos.
+\newblock {Anisotropic Anomalous Filter Applied to Multimodal Magnetic
+  Resonance Image in Multiple Sclerosis}.
+\newblock In {\em I Transatlantic Workshop on Methods for Multimodal
+  Neurosciences Studies}, S{\~{a}}o Pedro, SP, 2014.
+
+\bibitem{Filho2014a}
+Antonio Carlos da Silva~Senra Filho, Carlo Rondinoni, Antonio~Carlos dos
+  Santos, and Luiz O.~Murta Junior.
+\newblock {Brain Activation Inhomogeneity Highlighted by the Isotropic
+  Anomalous Diffusion Filter}.
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society}, pages 3313--3316, Chicago, aug 2014. IEEE.
+
+\bibitem{Hagmann2006}
+Patric Hagmann, Lisa Jonasson, Philippe Maeder, Jean-Philippe Thiran, Van~J
+  Wedeen, and Reto Meuli.
+\newblock {Understanding diffusion MR imaging techniques: from scalar
+  diffusion-weighted imaging to diffusion tensor imaging and beyond.}
+\newblock {\em Radiographics : a review publication of the Radiological Society
+  of North America, Inc}, 26 Suppl 1(SI):S205--S223, 2006.
+
+\bibitem{Lenzi2003}
+E.~Lenzi, R.~Mendes, and C.~Tsallis.
+\newblock {Crossover in diffusion equation: Anomalous and normal behaviors}.
+\newblock {\em Physical Review E}, 67(3):31104, mar 2003.
+
+\bibitem{PERONA1990}
+P~Perona and J~Malik.
+\newblock {Scale-space and edge detection using anisotropic diffusion}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  12(7):629--639, jul 1990.
+
+\bibitem{Schwammle2008}
+V~Schw{\"{a}}mmle, F~D Nobre, and C~Tsallis.
+\newblock {q-Gaussians in the porous-medium equation: stability and time
+  evolution}.
+\newblock {\em The European Physical Journal B}, 66(4):537--546, dec 2008.
+
+\bibitem{SenraFilho_EMBC2013}
+Antonio Carlos da~S. {Senra Filho}, Juliano~Jinzenji Duque, and Luiz~Otavio
+  Murta.
+\newblock {Isotropic anomalous filtering in Diffusion-Weighted Magnetic
+  Resonance Imaging.}
+\newblock {\em Conference proceedings : ... Annual International Conference of
+  the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in
+  Medicine and Biology Society. Conference}, 2013:4022--5, jan 2013.
+
+\bibitem{SenraFilhoCBEB2014}
+Antonio Carlos da~S. {Senra Filho}, Fabr{\'{i}}cio~Henrique Simozo, Carlos
+  Ernesto~Garrido Salmon, and Luiz~Ot{\'{a}}vio {Murta Junior}.
+\newblock {Anisotropic anomalous filter as a tool for decreasing patient exam
+  time in diffusion weighted mri protocols}.
+\newblock In {\em XXIV Brazilian Congress on Biomedical Engineering}, pages
+  0--3, Uberlandia, 2014.
+
+\bibitem{Tsallis2009Livro}
+Constantino Tsallis.
+\newblock {\em {Introduction to Nonextensive Statistical Mechanics: Approaching
+  a Complex World}}, volume~1.
+\newblock Springer, 2009.
+
+\end{thebibliography}
